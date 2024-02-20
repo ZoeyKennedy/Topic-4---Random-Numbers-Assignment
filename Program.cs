@@ -8,6 +8,8 @@
             //Part 1 Random Integers
             int minNumber;
             int maxNumber;
+
+
             int randomNum1;
             double randomDecimal;
             Console.WriteLine("Enter a minimum number");
